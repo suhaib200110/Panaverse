@@ -1,0 +1,9 @@
+Assignment 1: Find index number with value
+let arr1 = [11, 15, 17, 18, 19];
+
+Assignment 2: Prototypes methods of array and create your own methods.
+
+Assignment 3: Create Quiz App
+
+Assignment 4: Node.js(take input from user using prompt function)
+
